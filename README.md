@@ -29,7 +29,6 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
-   http://localhost:3000/
    git clone https://github.com/yourusername/video-call-app.git
    cd video-call-app
 
@@ -39,5 +38,4 @@ Before you begin, ensure you have met the following requirements:
     npm start 
 
     
-    http://localhost:3000/
 
